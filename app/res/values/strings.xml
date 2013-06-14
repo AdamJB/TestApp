@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   
+    <string name="app_name">Test App</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_activity_label">This is the Home Screen!</string>
+    <string name="title_activity_another">User Settings</string>
+    <string name="settings_user_info">User Info</string>
+    <string name="settings_first_name_title">First Name</string>
+    <string name="settings_last_name_title">Last Name</string>
+    <string name="settings_first_name_key">first_name</string>
+    <string name="settings_last_name_key">last_name</string>
+    <string name="title_activity_home_fragment">HomeFragment</string>    
+    
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+    
+    <string name="profile_first_name_label">First Name:</string>
+    <string name="profile_last_name_label">Last Name:</string>
+
+</resources>

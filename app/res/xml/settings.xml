@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen
+        xmlns:holo="http://schemas.android.com/apk/res-auto">
+            
+    <PreferenceCategory holo:title="@string/settings_user_info">
+        <EditTextPreference
+            holo:id="@+id/edit_first_name" 
+            holo:dialogTitle="@string/settings_first_name_title" 
+            holo:title="@string/settings_first_name_title"
+            holo:key="@string/settings_first_name_key"/>
+        <EditTextPreference 
+            holo:id="@+id/edit_last_name"
+            holo:dialogTitle="@string/settings_last_name_title" 
+            holo:title="@string/settings_last_name_title" 
+            holo:key="@string/settings_last_name_key"/>
+    </PreferenceCategory>
+        
+</PreferenceScreen>
