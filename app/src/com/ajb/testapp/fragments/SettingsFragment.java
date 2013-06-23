@@ -1,7 +1,8 @@
 package com.ajb.testapp.fragments;
 
-import android.os.Bundle;
 import org.holoeverywhere.preference.PreferenceFragment;
+
+import android.os.Bundle;
 
 import com.ajb.testapp.R;
 
