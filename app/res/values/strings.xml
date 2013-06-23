@@ -18,4 +18,6 @@
     <string name="profile_first_name_label">First Name:</string>
     <string name="profile_last_name_label">Last Name:</string>
 
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
 </resources>
